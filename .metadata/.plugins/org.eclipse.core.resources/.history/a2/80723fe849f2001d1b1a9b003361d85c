@@ -1,0 +1,32 @@
+package com.learning;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class DemoServlet
+ */
+public class DemoServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+	static {
+		System.out.println("loading TestServlet");
+	}
+	
+    public DemoServlet() {
+       System.out.println("DemoServlet Instantiation..");
+    }
+    
+    public void init() {
+    	System.out.println("DemoServlet Initiation..");
+    }
+    
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
+
+}

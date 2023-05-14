@@ -1,0 +1,13 @@
+127.0.0.1 - - [12/May/2023:18:14:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:14:36 +0530] "GET /SecondServletApp/test HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:14:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:14:51 +0530] "GET /SecondServletApp/test HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:14:52 +0530] "GET /SecondServletApp/test HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:15:01 +0530] "GET /SecondServletApp/test HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2023:18:37:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:37:38 +0530] "GET /SecondServletApp/login.html HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:37:45 +0530] "POST /SecondServletApp/test HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:38:32 +0530] "POST /SecondServletApp/test HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:38:37 +0530] "POST /SecondServletApp/test HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:38:39 +0530] "GET /SecondServletApp/test HTTP/1.1" 200 92
+0:0:0:0:0:0:0:1 - - [12/May/2023:18:38:43 +0530] "POST /SecondServletApp/test HTTP/1.1" 200 93
