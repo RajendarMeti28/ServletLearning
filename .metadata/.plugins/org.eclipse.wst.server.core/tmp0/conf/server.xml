@@ -154,7 +154,7 @@
 		
 		
 
-      <Context docBase="C:\Users\rmeti\Desktop\dev\Spring-learning\Servlets\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\rmeti\Desktop\dev\Spring-learning\Servlets\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ServletDBConnection" path="/ServletDBConnection" reloadable="true" source="org.eclipse.jst.jee.server:ServletDBConnection"/></Host>
+      <Context docBase="C:\Users\rmeti\Desktop\dev\Spring-learning\Servlets\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\rmeti\Desktop\dev\Spring-learning\Servlets\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\HiddenFormFieldApp" path="/HiddenFormFieldApp" reloadable="true" source="org.eclipse.jst.jee.server:HiddenFormFieldApp"/></Host>
     </Engine>
   </Service>
 </Server>

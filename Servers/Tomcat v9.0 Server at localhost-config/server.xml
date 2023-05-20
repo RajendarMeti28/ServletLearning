@@ -154,7 +154,7 @@
 		
 		
 
-      <Context docBase="ServletDBConnection" path="/ServletDBConnection" reloadable="true" source="org.eclipse.jst.jee.server:ServletDBConnection"/></Host>
+      <Context docBase="HiddenFormFieldApp" path="/HiddenFormFieldApp" reloadable="true" source="org.eclipse.jst.jee.server:HiddenFormFieldApp"/></Host>
     </Engine>
   </Service>
 </Server>
