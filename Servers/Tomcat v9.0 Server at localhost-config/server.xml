@@ -154,7 +154,7 @@
 		
 		
 
-      <Context docBase="HiddenFormFieldApp" path="/HiddenFormFieldApp" reloadable="true" source="org.eclipse.jst.jee.server:HiddenFormFieldApp"/></Host>
+      <Context docBase="JSTL" path="/JSTL" reloadable="true" source="org.eclipse.jst.jee.server:JSTL"/></Host>
     </Engine>
   </Service>
 </Server>
